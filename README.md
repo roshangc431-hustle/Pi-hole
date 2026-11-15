@@ -11,5 +11,6 @@ To make it you should download imager first from where you can download one suit
 
 To see its dashboard you can check out this link
 (http://192.168.100.158/admin/)
-Imagee of dashboard
+
+Image of dashboard
 <img width="1885" height="917" alt="image" src="https://github.com/user-attachments/assets/5873794a-d130-4558-822c-7c7073985c99" />
