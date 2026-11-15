@@ -4,8 +4,10 @@ Pi-hole is a free, open-source network-level advertisement and Internet tracker 
 Some terminal codes and files on internet are used on it.
 
 **How to make** 
+
 To make it you should download imager first from where you can download one suitable raspberry pi OS and later on download some files and give some premitions and need to use some terminal codes which are easily avilable on internet.
 
 ***It's dashboard***
+
 To see its dashboard you can check out this link
 (http://192.168.100.158/admin/)
